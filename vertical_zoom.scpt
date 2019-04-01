@@ -1,5 +1,6 @@
 #!/usr/bin/osascript
 # zoom the current app's window vertically to fill the screen
+# original author: JDSmith
 set display_y_size to 2160
 
 set cur_app to (path to frontmost application as Unicode text)
