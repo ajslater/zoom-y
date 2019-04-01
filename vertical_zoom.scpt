@@ -1,4 +1,4 @@
-set display_y_size to 1600
+set display_y_size to 2160
 
 set cur_app to (path to frontmost application as Unicode text)
 if cur_app ends with ":Finder.app:" then
