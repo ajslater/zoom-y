@@ -1,3 +1,7 @@
-# vertical zoom
+# zoom-y
 
-An AppleScript for maximizing the 'zoom' of windows to the display height. Very useful for terminal windows if hotkeyed. I bind the vertical zoom script to F13 and Command-F12 (for the small keyboard) with [BetterTouchTool](https://folivora.ai/).
+An AppleScript for maximizing the vertical 'zoom' of windows to the display height. Useful for terminal windows if hotkeyed.
+
+## Install
+1. Open this with Apple's Script Editor and export as a script signed to run locally.
+1. Bind the script to a hotkey with the app of your choice. I bind to ⌘-j with [BetterTouchTool](https://folivora.ai/).
